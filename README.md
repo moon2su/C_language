@@ -1,2 +1,2 @@
 # C_language
-s
+learning C language with beakjoon
